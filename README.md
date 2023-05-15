@@ -8,7 +8,7 @@
 
 <br>
 
-pre>
+</pre>
 
 Mi chiamo Alice Balestieri,  
 ho studiato Filmica al Liceo Artistico e fatto un corso di specializzazione presso la Scuola del Libro di Urbino  
