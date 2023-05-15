@@ -8,8 +8,11 @@
 
 <br>
 
-<pre>
+pre>
 
-Mi chiamo Alice Balestieri, ho studiato Filmica al Liceo Artistico e fatto un corso di specializzazione presso la Scuola del Libro di Urbino nell' ambito del Disegno Animato e Fumetto. Sono una operatrice Volontaria del Servizio Civile presso Pescheria Centro Arti Visive e nel mio tempo libero disegno, dipingo e scatto fotografie.
+Mi chiamo Alice Balestieri,  
+ho studiato Filmica al Liceo Artistico e fatto un corso di specializzazione presso la Scuola del Libro di Urbino  
+nell' ambito del Disegno Animato e Fumetto. Sono una operatrice Volontaria del Servizio Civile presso  
+Pescheria Centro Arti Visive e nel mio tempo libero disegno, dipingo e scatto fotografie.  
 
 </pre>
